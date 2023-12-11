@@ -1,0 +1,264 @@
+{
+	"profiles": [
+		{
+			"name": "Elizabeth Dean",
+			"occupation": "Marketing Coordinator",
+			"industry": "Advertising",
+			"job_description": "Develops and manages advertising campaigns; analyzes sales data.",
+			"education": "bachelors",
+			"major": "Marketing",
+			"location": {
+				"city": "Columbus",
+				"state_or_province": "Ohio",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Harrison Smith",
+			"occupation": "Vintage Store Owner",
+			"industry": "Retail",
+			"job_description": "Procures and sells vintage clothing and accessories.",
+			"education": "high_school",
+			"major": null,
+			"location": {
+				"city": "Portland",
+				"state_or_province": "Oregon",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Tanya Rivera",
+			"occupation": "Real Estate Agent",
+			"industry": "Real Estate",
+			"job_description": "Assists clients in buying, selling, and renting properties.",
+			"education": "bachelors",
+			"major": "Business Administration",
+			"location": {
+				"city": "Tampa",
+				"state_or_province": "Florida",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Andrew Lopez",
+			"occupation": "Freelance Web Developer",
+			"industry": "Information Technology",
+			"job_description": "Designs and develops websites for various clients across industries.",
+			"education": "bachelors",
+			"major": "Web Development",
+			"location": {
+				"city": "San Francisco",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Kyle Cho",
+			"occupation": "Restaurant Manager",
+			"industry": "Hospitality",
+			"job_description": "Oversees daily operations of a fast-paced restaurant.",
+			"education": "bachelors",
+			"major": "Hospitality Management",
+			"location": {
+				"city": "Chicago",
+				"state_or_province": "Illinois",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Vanessa Carter",
+			"occupation": "Graphic Designer",
+			"industry": "Design",
+			"job_description": "Creates visual concepts for clients across various media.",
+			"education": "bachelors",
+			"major": "Graphic Design",
+			"location": {
+				"city": "Seattle",
+				"state_or_province": "Washington",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Raj Patel",
+			"occupation": "Business Analyst",
+			"industry": "Finance",
+			"job_description": "Analyzes market trends to advise investment opportunities.",
+			"education": "masters",
+			"major": "Finance",
+			"location": {
+				"city": "New York",
+				"state_or_province": "New York",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Samantha Lee",
+			"occupation": "Antique Dealer",
+			"industry": "Retail",
+			"job_description": "Specializes in procuring and selling antique furniture and artwork.",
+			"education": "bachelors",
+			"major": "Art History",
+			"location": {
+				"city": "New Orleans",
+				"state_or_province": "Louisiana",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "James O'Neil",
+			"occupation": "Used Car Salesman",
+			"industry": "Automotive",
+			"job_description": "Buys and sells pre-owned vehicles, manages lot inventory.",
+			"education": "high_school",
+			"major": null,
+			"location": {
+				"city": "Phoenix",
+				"state_or_province": "Arizona",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Gloria Hernandez",
+			"occupation": "E-commerce Specialist",
+			"industry": "Online Marketplace",
+			"job_description": "Manages online sales and marketing for a range of products.",
+			"education": "bachelors",
+			"major": "E-commerce",
+			"location": {
+				"city": "Miami",
+				"state_or_province": "Florida",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Mohammed Al-Farsi",
+			"occupation": "Entrepreneur",
+			"industry": "E-commerce",
+			"job_description": "Operates an online store specializing in custom tech gadgets.",
+			"education": "masters",
+			"major": "Entrepreneurship",
+			"location": {
+				"city": "Dubai",
+				"state_or_province": "Dubai",
+				"country": "UAE"
+			}
+		},
+		{
+			"name": "Christina Wong",
+			"occupation": "Professional Blogger",
+			"industry": "Digital Media",
+			"job_description": "Writes and manages content about lifestyle and consumer goods.",
+			"education": "bachelors",
+			"major": "English",
+			"location": {
+				"city": "Vancouver",
+				"state_or_province": "British Columbia",
+				"country": "Canada"
+			}
+		},
+		{
+			"name": "Dylan Rogers",
+			"occupation": "Fitness Instructor",
+			"industry": "Health and Wellness",
+			"job_description": "Provides personal training and sells fitness equipment.",
+			"education": "none",
+			"major": null,
+			"location": {
+				"city": "Austin",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Hannah Cohen",
+			"occupation": "Interior Decorator",
+			"industry": "Interior Design",
+			"job_description": "Designs indoor spaces and curates furniture for clients.",
+			"education": "bachelors",
+			"major": "Interior Design",
+			"location": {
+				"city": "Boston",
+				"state_or_province": "Massachusetts",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Isaac Kim",
+			"occupation": "Tech Reviewer",
+			"industry": "Journalism",
+			"job_description": "Writes reviews for the latest tech products and hardware.",
+			"education": "bachelors",
+			"major": "Journalism",
+			"location": {
+				"city": "Los Angeles",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Anita Singh",
+			"occupation": "Wedding Planner",
+			"industry": "Event Planning",
+			"job_description": "Organizes and sells wedding related services and products.",
+			"education": "bachelors",
+			"major": "Event Management",
+			"location": {
+				"city": "Dallas",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Jason Matthews",
+			"occupation": "Photographer",
+			"industry": "Photography",
+			"job_description": "Captures images for events and sells photography gear.",
+			"education": "bachelors",
+			"major": "Photography",
+			"location": {
+				"city": "Atlanta",
+				"state_or_province": "Georgia",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Stacey Monroe",
+			"occupation": "Toy Store Owner",
+			"industry": "Retail",
+			"job_description": "Operates a store specializing in educational toys and children's products.",
+			"education": "bachelors",
+			"major": "Business",
+			"location": {
+				"city": "Minneapolis",
+				"state_or_province": "Minnesota",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Alex Johnson",
+			"occupation": "App Developer",
+			"industry": "Mobile Technology",
+			"job_description": "Develops mobile applications and promotes app-related merchandise.",
+			"education": "bachelors",
+			"major": "Computer Science",
+			"location": {
+				"city": "Denver",
+				"state_or_province": "Colorado",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Olivia Green",
+			"occupation": "Bookstore Owner",
+			"industry": "Retail",
+			"job_description": "Runs a local bookstore with new and used books, offers rare book findings.",
+			"education": "bachelors",
+			"major": "Literature",
+			"location": {
+				"city": "Nashville",
+				"state_or_province": "Tennessee",
+				"country": "USA"
+			}
+		}
+	]
+}

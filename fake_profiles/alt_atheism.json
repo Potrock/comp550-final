@@ -1,0 +1,264 @@
+{
+	"profiles": [
+		{
+			"name": "Thomas Reed",
+			"occupation": "Journalist",
+			"industry": "Media",
+			"job_description": "Writes articles on various social topics, including religion and secularism.",
+			"education": "bachelors",
+			"major": "Journalism",
+			"location": {
+				"city": "Austin",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Samantha Brooks",
+			"occupation": "College Professor",
+			"industry": "Education",
+			"job_description": "Teaches courses on philosophy, including metaphysics and ethics.",
+			"education": "phd",
+			"major": "Philosophy",
+			"location": {
+				"city": "Berkeley",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Marcus Li",
+			"occupation": "Software Developer",
+			"industry": "Technology",
+			"job_description": "Develops mobile applications with a focus on social networking.",
+			"education": "bachelors",
+			"major": "Computer Science",
+			"location": {
+				"city": "Seattle",
+				"state_or_province": "Washington",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Emily Nguyen",
+			"occupation": "Human Rights Activist",
+			"industry": "NGO",
+			"job_description": "Advocates for freedom of belief and expression around the world.",
+			"education": "masters",
+			"major": "International Relations",
+			"location": {
+				"city": "New York",
+				"state_or_province": "New York",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Jordan Smith",
+			"occupation": "Blogger",
+			"industry": "Digital Media",
+			"job_description": "Runs a popular blog discussing religion, atheism, and secular life.",
+			"education": "bachelors",
+			"major": "English",
+			"location": {
+				"city": "Denver",
+				"state_or_province": "Colorado",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Laura GarcÃ­a",
+			"occupation": "Civil Liberties Lawyer",
+			"industry": "Legal",
+			"job_description": "Specializes in cases defending freedom of speech and beliefs.",
+			"education": "phd",
+			"major": "Law",
+			"location": {
+				"city": "Los Angeles",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Oliver Zhang",
+			"occupation": "Political Analyst",
+			"industry": "Politics",
+			"job_description": "Researches and comments on the intersection of religion and politics.",
+			"education": "masters",
+			"major": "Political Science",
+			"location": {
+				"city": "Washington",
+				"state_or_province": "D.C.",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Noah Martinez",
+			"occupation": "Social Worker",
+			"industry": "Social Services",
+			"job_description": "Provides support to individuals in diverse communities, including discussions on belief systems.",
+			"education": "masters",
+			"major": "Social Work",
+			"location": {
+				"city": "San Antonio",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Isabella Jones",
+			"occupation": "Library Science Specialist",
+			"industry": "Information Services",
+			"job_description": "Manages collections, including texts on religion and atheism.",
+			"education": "masters",
+			"major": "Library Science",
+			"location": {
+				"city": "Chicago",
+				"state_or_province": "Illinois",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Ethan Brown",
+			"occupation": "Podcast Host",
+			"industry": "Entertainment",
+			"job_description": "Hosts discussions about cultural beliefs and the impact on modern society.",
+			"education": "bachelors",
+			"major": "Communications",
+			"location": {
+				"city": "Atlanta",
+				"state_or_province": "Georgia",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Ava Wilson",
+			"occupation": "Author",
+			"industry": "Publishing",
+			"job_description": "Writes fiction and non-fiction exploring themes of faith and skepticism.",
+			"education": "bachelors",
+			"major": "Creative Writing",
+			"location": {
+				"city": "Boston",
+				"state_or_province": "Massachusetts",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Michael Johnson",
+			"occupation": "Research Scientist",
+			"industry": "Science and Research",
+			"job_description": "Studies cognitive science, including belief formation and change.",
+			"education": "phd",
+			"major": "Cognitive Science",
+			"location": {
+				"city": "San Diego",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Sophia Williams",
+			"occupation": "Life Coach",
+			"industry": "Self-help",
+			"job_description": "Helps clients with personal development, including exploring their belief systems.",
+			"education": "bachelors",
+			"major": "Psychology",
+			"location": {
+				"city": "Las Vegas",
+				"state_or_province": "Nevada",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Alexander Rodriguez",
+			"occupation": "Debate Coach",
+			"industry": "Education",
+			"job_description": "Teaches high school students critical thinking and argumentation, focusing on religious and secular themes.",
+			"education": "masters",
+			"major": "Education",
+			"location": {
+				"city": "Houston",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Madison Martinez",
+			"occupation": "Humanitarian Aid Coordinator",
+			"industry": "International Aid",
+			"job_description": "Coordinates aid in crisis regions, often involves engaging with diverse belief systems.",
+			"education": "bachelors",
+			"major": "Development Studies",
+			"location": {
+				"city": "Philadelphia",
+				"state_or_province": "Pennsylvania",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Aiden Lee",
+			"occupation": "Ethical Hacker",
+			"industry": "Cybersecurity",
+			"job_description": "Protects organizations from digital threats, advocates for privacy and ethics in tech industry.",
+			"education": "bachelors",
+			"major": "Information Technology",
+			"location": {
+				"city": "San Jose",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Mia Davis",
+			"occupation": "Graphic Designer",
+			"industry": "Creative Arts",
+			"job_description": "Creates visual content for campaigns, including those with secular themes.",
+			"education": "bachelors",
+			"major": "Graphic Design",
+			"location": {
+				"city": "Miami",
+				"state_or_province": "Florida",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "William Thompson",
+			"occupation": "Social Media Strategist",
+			"industry": "Marketing",
+			"job_description": "Devises social media campaigns that often involve discussions on current religious and secular topics.",
+			"education": "bachelors",
+			"major": "Marketing",
+			"location": {
+				"city": "Nashville",
+				"state_or_province": "Tennessee",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Grace Kim",
+			"occupation": "Documentary Filmmaker",
+			"industry": "Film",
+			"job_description": "Directs documentaries covering a wide array of subjects, including the impact of religion on society.",
+			"education": "bachelors",
+			"major": "Film Studies",
+			"location": {
+				"city": "Portland",
+				"state_or_province": "Oregon",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Liam Hernandez",
+			"occupation": "Anthropologist",
+			"industry": "Academia",
+			"job_description": "Studies cultural practices, including the role of atheism in different societies.",
+			"education": "phd",
+			"major": "Anthropology",
+			"location": {
+				"city": "Minneapolis",
+				"state_or_province": "Minnesota",
+				"country": "USA"
+			}
+		}
+	]
+}

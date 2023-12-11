@@ -1,0 +1,264 @@
+{
+	"profiles": [
+		{
+			"name": "Alex Johnson",
+			"occupation": "Software Developer",
+			"industry": "Technology",
+			"job_description": "Develops desktop applications for various platforms",
+			"education": "bachelors",
+			"major": "Computer Science",
+			"location": {
+				"city": "Austin",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Melissa Wang",
+			"occupation": "Graphic Designer",
+			"industry": "Design",
+			"job_description": "Creates visuals and UI elements for software",
+			"education": "bachelors",
+			"major": "Graphic Design",
+			"location": {
+				"city": "San Francisco",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Ethan Brown",
+			"occupation": "IT Support Specialist",
+			"industry": "Information Technology",
+			"job_description": "Provides technical support and troubleshooting services",
+			"education": "bachelors",
+			"major": null,
+			"location": {
+				"city": "Seattle",
+				"state_or_province": "Washington",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Samantha Morales",
+			"occupation": "Systems Analyst",
+			"industry": "Technology",
+			"job_description": "Analyzes system requirements and ensures systems work efficiently.",
+			"education": "masters",
+			"major": null,
+			"location": {
+				"city": "New York",
+				"state_or_province": "New York",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "David Park",
+			"occupation": "Network Engineer",
+			"industry": "Telecommunications",
+			"job_description": "Designs and implements network solutions",
+			"education": "bachelors",
+			"major": "Network Engineering",
+			"location": {
+				"city": "Chicago",
+				"state_or_province": "Illinois",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Sarah Kim",
+			"occupation": "Database Administrator",
+			"industry": "Technology",
+			"job_description": "Maintains and secures company databases",
+			"education": "bachelors",
+			"major": "Information Technology",
+			"location": {
+				"city": "Boston",
+				"state_or_province": "Massachusetts",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Erica Martinez",
+			"occupation": "Tech Entrepreneur",
+			"industry": "Technology Startups",
+			"job_description": "Runs a startup focused on innovative tech solutions",
+			"education": "bachelors",
+			"major": null,
+			"location": {
+				"city": "Boulder",
+				"state_or_province": "Colorado",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Kevin Patel",
+			"occupation": "Hardware Technician",
+			"industry": "Consumer Electronics",
+			"job_description": "Repairs and maintains computer hardware systems",
+			"education": "high_school",
+			"major": null,
+			"location": {
+				"city": "Houston",
+				"state_or_province": "Texas",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Amanda Roberts",
+			"occupation": "Web Developer",
+			"industry": "Technology",
+			"job_description": "Builds and maintains websites",
+			"education": "bachelors",
+			"major": "Web Development",
+			"location": {
+				"city": "Miami",
+				"state_or_province": "Florida",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Benjamin Lee",
+			"occupation": "Computer Scientist",
+			"industry": "Research & Development",
+			"job_description": "Conducts research in algorithms and computational theory",
+			"education": "phd",
+			"major": "Computer Science",
+			"location": {
+				"city": "Palo Alto",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Natalie Smith",
+			"occupation": "Project Manager",
+			"industry": "Software Development",
+			"job_description": "Manages technology projects from conception to delivery",
+			"education": "masters",
+			"major": null,
+			"location": {
+				"city": "San Diego",
+				"state_or_province": "California",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Jacob Rodriguez",
+			"occupation": "Cybersecurity Analyst",
+			"industry": "Security",
+			"job_description": "Protects organizational data from cyber threats",
+			"education": "masters",
+			"major": "Cybersecurity",
+			"location": {
+				"city": "Denver",
+				"state_or_province": "Colorado",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Stephanie Clark",
+			"occupation": "UX/UI Designer",
+			"industry": "Software Development",
+			"job_description": "Designs user interfaces and experiences for software products",
+			"education": "bachelors",
+			"major": "Design",
+			"location": {
+				"city": "Minneapolis",
+				"state_or_province": "Minnesota",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Christopher Huang",
+			"occupation": "Product Manager",
+			"industry": "Technology",
+			"job_description": "Oversees product life cycle from design to market release",
+			"education": "masters",
+			"major": null,
+			"location": {
+				"city": "Raleigh",
+				"state_or_province": "North Carolina",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Heather Diaz",
+			"occupation": "Tech Support Manager",
+			"industry": "Customer Service",
+			"job_description": "Leads a team resolving technology-related customer issues",
+			"education": "masters",
+			"major": null,
+			"location": {
+				"city": "Las Vegas",
+				"state_or_province": "Nevada",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Brandon Turner",
+			"occupation": "Electrical Engineer",
+			"industry": "Electronics",
+			"job_description": "Develops electrical systems and components",
+			"education": "masters",
+			"major": "Electrical Engineering",
+			"location": {
+				"city": "Phoenix",
+				"state_or_province": "Arizona",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Hannah Allen",
+			"occupation": "Data Scientist",
+			"industry": "Big Data",
+			"job_description": "Analyzes complex data sets to identify business and market trends",
+			"education": "masters",
+			"major": "Data Science",
+			"location": {
+				"city": "Atlanta",
+				"state_or_province": "Georgia",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Victoria Garcia",
+			"occupation": "Research & Development Engineer",
+			"industry": "Technology",
+			"job_description": "Engages in research and development for cutting-edge technology",
+			"education": "phd",
+			"major": "Engineering",
+			"location": {
+				"city": "Portland",
+				"state_or_province": "Oregon",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Tyler Nguyen",
+			"occupation": "Software Architect",
+			"industry": "Technology",
+			"job_description": "Designs software systems with architectural considerations",
+			"education": "masters",
+			"major": "Software Engineering",
+			"location": {
+				"city": "Salt Lake City",
+				"state_or_province": "Utah",
+				"country": "USA"
+			}
+		},
+		{
+			"name": "Sophia Martin",
+			"occupation": "Technical Writer",
+			"industry": "Publishing",
+			"job_description": "Writes manuals, guides, and documentation for tech products",
+			"education": "bachelors",
+			"major": "Technical Communication",
+			"location": {
+				"city": "Madison",
+				"state_or_province": "Wisconsin",
+				"country": "USA"
+			}
+		}
+	]
+}
