@@ -1,0 +1,5 @@
+,Average prediction score
+Logistic,0.8729390681003585
+Naive Bayes,0.8729390681003585
+Decision tree,0.7682795698924733
+SVM,0.8729390681003585
